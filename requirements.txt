@@ -1,0 +1,7 @@
+aiogram
+feedparser
+python-dotenv
+pymysql
+beautifulsoup4
+playwright
+pytz
